@@ -34,6 +34,9 @@
 
 #include "rt_study.h"
 
+// STD includes
+#include <vector>
+
 class vtkPolyData;
 
 /// \ingroup SlicerRt_QtModules_DicomRtExport
